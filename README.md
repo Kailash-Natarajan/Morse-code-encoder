@@ -8,7 +8,7 @@ Here is the circuit. Ignore the words AT89S52 (it was just renamed)
 
 ![morsecodecircuit](https://user-images.githubusercontent.com/66203530/124294797-bb011900-db75-11eb-8f91-f8d7e8057bf4.jpg)
 
-The uniqueness of this project is that, even though only 16 inputs are available using keypad, 26 alphabets and 10 decimal numbers can be given as input based on the position of the switch. Essentially the keypad configuration changes depending on the position of the three way rotary switch as shown below.
+The uniqueness of this project is that, even though only 16 inputs are available using a 4x4 keypad, 26 alphabets and 10 decimal numbers can be given as input based on the position of the switch. Essentially the keypad configuration changes depending on the position of the three way rotary switch as shown below.
 
 ![image](https://user-images.githubusercontent.com/66203530/124295306-52ff0280-db76-11eb-92f6-88142f0427be.png)
 
